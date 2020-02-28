@@ -1,0 +1,23 @@
+{
+  "name": "petshop-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianazilio/petshop-node.git"
+  },
+  "author": "Tatiana Zilio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianazilio/petshop-node/issues"
+  },
+  "homepage": "https://github.com/tatianazilio/petshop-node#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
